@@ -7,6 +7,9 @@
 	{
 		"keys": ["ctrl+`"], "command": "tag_classes"
 	},
+	{
+		"keys" : [ "ctrl+d" ] ,  "command" : "expand_selection_to_quotes"
+	}
 ]
 {
 	"auto_complete": true,
