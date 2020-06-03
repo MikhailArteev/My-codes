@@ -1,4 +1,3 @@
-Keymap (Windows Users):
 [
 	{ "keys": ["f12"], "command": "reindent"},
 	{
@@ -9,8 +8,6 @@ Keymap (Windows Users):
 		"keys": ["ctrl+`"], "command": "tag_classes"
 	},
 ]
- 
-Settings:
 {
 	"auto_complete": true,
 	"bold_folder_labels": true,
